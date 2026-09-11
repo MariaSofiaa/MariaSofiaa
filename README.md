@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hola 👋, soy María Sofía
+
+Soy Ingeniera en Software enfocada en el desarrollo y el diseño UX/UI. 
+
+- 🔭 **Actualmente trabajo como Desarrolladora de software y diseño de interfaces.
+- 💻 **Mis herramientas:** Desarrollo con Angular, Ionic y Capacitor, y diseño/prototipado en Figma.
+- 🎨 **Dato curioso:** Cuando no estoy programando o diseñando, me gusta pintar con gouache, hacer piezas con arcilla de secado al aire y ver The X-Files*.
 
 <!--
 **MariaSofiaa/MariaSofiaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
